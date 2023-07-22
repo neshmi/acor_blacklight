@@ -9,6 +9,11 @@ RUN apk add --update --no-cache \
   nodejs \
   shared-mime-info \
   sqlite-dev \
+  mariadb-dev \
+  openssl \
+  openssl-dev \
+  autoconf \
+  mariadb-dev \
   tzdata \
   yarn
 
